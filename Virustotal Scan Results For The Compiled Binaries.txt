@@ -1,0 +1,13 @@
+Virustotal Scans For My Files:
+
+A word from @Th3Tr1ckst3r, these detections of trojans, and such are called false positives. This is a common problem that occurs
+with pyinstaller because some hackers have used pyinstaller for bad things such as to compile viruses.
+
+I released the source code of my files to prove they arent bad awhile ago, but I still believe people really need to stop using
+pyinstaller for hacking other people. That way virustotal says my files are clean, and not this crap.
+
+AES256_Encrypt_V1.exe:
+https://www.virustotal.com/#/file/694d2fbd0772b0eef4e56bacd56af8d462730cb71a348747a2caf15cb18dd610/detection
+
+AES256_Decrypt_V1.exe:
+https://www.virustotal.com/#/file/636ccd79aae2a81ec9607d9e066f111c1cf569263a173b3c70fbde8d848a7ea9/detection
